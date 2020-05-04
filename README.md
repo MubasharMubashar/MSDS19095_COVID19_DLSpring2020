@@ -1,8 +1,7 @@
 # MSDS19095_COVID19_DLSpring2020
 This repository contains code and results for COVID-19 classification assignment by Deep Learning Spring 2020 course offered at Information Technology University, Lahore, Pakistan. This assignment is only for learning purposes and is not intended to be used for clinical purposes.
 # F1 Score, Accuracy And Confusion Matrix For VGG16 Model With Out Focal Loss
-![](Image/VGG%20WithOut%20Focal%20Train.PNG)
-![](Image/VGG%20WithOut%20Focal%20valid.PNG)
+
 # DataSet
 https://drive.google.com/a/itu.edu.pk/uc?id=1eytbwaLQBv12psV8I-aMkIli9N3bf8nO&export=download
 
